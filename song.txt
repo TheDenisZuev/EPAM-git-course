@@ -26,3 +26,5 @@ And that's how the story goes
 The story of the beast with those four dirty paws.
 
 Content for first feature commit
+
+Content for second feature commit
